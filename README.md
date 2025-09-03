@@ -50,4 +50,4 @@ Acts as a quality advocate, promoting best practices, mentoring, and building au
 ## 📫 Contato | Contact
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/marcilio-junio)  
-✉️ Email: marcilio.borges@zup.com.br
+✉️ Email: marciliojunio.borges@hotmail.com
